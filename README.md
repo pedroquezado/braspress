@@ -1,7 +1,3 @@
-Here's a detailed and structured `README.md` file for the Braspress integration project:
-
----
-
 # Braspress PHP Client
 
 This PHP client library allows you to interact with the Braspress API for freight quotation and tracking services. The library provides a convenient way to access Braspress's services, including calculating shipping costs and tracking shipments, with support for both rodoviário (road) and aéreo (air) modalities.
