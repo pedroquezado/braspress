@@ -1,5 +1,14 @@
 # Braspress PHP Client
 
+[![Maintainer](http://img.shields.io/badge/maintainer-@pedroquezado-blue.svg?style=flat-square)](https://github.com/pedroquezado)
+[![Source Code](http://img.shields.io/badge/source-pedroquezado/braspress-blue.svg?style=flat-square)](https://github.com/pedroquezado/braspress)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/pedroquezado/braspress.svg?style=flat-square)](https://packagist.org/packages/pedroquezado/braspress)
+[![Latest Version](https://img.shields.io/github/release/pedroquezado/braspress.svg?style=flat-square)](https://github.com/pedroquezado/braspress/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Build](https://img.shields.io/scrutinizer/build/g/pedroquezado/braspress.svg?style=flat-square)](https://scrutinizer-ci.com/g/pedroquezado/braspress)
+[![Quality Score](https://img.shields.io/scrutinizer/g/pedroquezado/braspress.svg?style=flat-square)](https://scrutinizer-ci.com/g/pedroquezado/braspress)
+[![Total Downloads](https://img.shields.io/packagist/dt/pedroquezado/braspress.svg?style=flat-square)](https://packagist.org/packages/pedroquezado/braspress)
+
 This PHP client library allows you to interact with the Braspress API for freight quotation and tracking services. The library provides a convenient way to access Braspress's services, including calculating shipping costs and tracking shipments, with support for both rodoviário (road) and aéreo (air) modalities.
 
 ## Installation
