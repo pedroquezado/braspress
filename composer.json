@@ -1,0 +1,20 @@
+{
+    "name": "pedroquezado/braspress",
+    "description": "API Client para integração com a Braspress.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pedro Quezado",
+            "email": "eu@pedroquezado.com.br"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PedroQuezado\\Code\\Braspress\\": "src/"
+        }
+    }
+}
