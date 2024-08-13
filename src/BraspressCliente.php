@@ -111,7 +111,7 @@ class BraspressCliente
      */
     private function validarPeso($peso)
     {
-        if (!is_numeric($peso) || $peso <= 0) {
+        if ($peso <= 0) {
             throw new BraspressClienteException("Peso inválido.");
         }
     }
